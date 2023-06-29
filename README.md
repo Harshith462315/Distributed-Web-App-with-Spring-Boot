@@ -1,4 +1,4 @@
-# Running the application
+# How to Run the application?
 - Tech stack: Spring Boot, Java, Kafka, Elasticsearch, postgresql, prometheus, grafana, docker and kibana
 - Run mvn install -DskipTests command
 - Then go to docker-compose folder and run docker-compose up command to run kafka cluster and twitter-to-kafka-service together
